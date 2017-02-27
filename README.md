@@ -11,7 +11,7 @@ more about my research publications, then you can check out my website called
 https://vanslykej.github.io.
 
 Are you interested in previewing the presentation without having to download the code and resources from the GitHub
-site? Well, you can! Please view [Presentation 1](http://cdn.rawgit.com/fs102Spring2017-presentation1-vanslykej/master/presentation1.html).
+site? Well, you can! Please view [Presentation 1](http://cdn.rawgit.com/vanslykej/fs102Spring2017-presentation1-vanslykej/master/presentation1.html).
 
 ## Installation Instructions
 
